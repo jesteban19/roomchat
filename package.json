@@ -1,0 +1,19 @@
+{
+  "name": "chatnode",
+  "version": "1.0.0",
+  "description": "testing chat",
+  "main": "chat.js",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "engines": {
+      "node": "0.10.31"
+  },
+  "author": "Joseph Esteban",
+  "license": "ISC"
+}
